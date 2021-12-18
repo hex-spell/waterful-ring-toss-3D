@@ -13,5 +13,5 @@ To move the rings, click where you want them to fly from
 
 If you want to know how movement works, go to `Assets/Movement.cs`
 
-Shell 3D models by [Rkuhl](https://www.turbosquid.com/es/Search/Artists/Rkuhl) 
+3D Shell models by [Rkuhl](https://www.turbosquid.com/es/Search/Artists/Rkuhl) 
 
