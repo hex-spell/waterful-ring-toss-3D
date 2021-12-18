@@ -1,7 +1,7 @@
 # Waterful Ring Toss 3D
 My first Unity project
 
-[Live Demo](https://modulariz.github.io/WaterfulRingToss3D/)
+[Live Demo](https://modulariz.github.io/waterful-ring-toss-3D/)
 
 To move the rings, click where you want them to fly from
 
